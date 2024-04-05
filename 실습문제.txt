@@ -1,0 +1,5 @@
+pull 하고
+파일 추가하고
+add 하고
+commit 하고
+push 하기
